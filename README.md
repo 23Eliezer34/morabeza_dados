@@ -35,6 +35,6 @@ python -m morabeza.resumo data/vendas_amostra.csv
 ```
 ## Sobre mim
 Formando: Eliézer Santos
-Ilha favorita: São Vicente
+Ilha favorita: Fogo  
  
 
